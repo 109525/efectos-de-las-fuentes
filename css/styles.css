@@ -24,12 +24,13 @@ h1 {
     background-color: #5a189a;
 }
 
-.fuente_times {
-    font-family: 'Times New Roman', Times, serif;
+.fuente_roboto {
+    /* font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-variant: small-caps;
-    font-size: 20px;
+    font-size: 20px; */
+    font: italic small-caps bolder 20px Roboto, sans-serif;
 }
 
 .fuente_georgia {
